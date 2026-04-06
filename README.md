@@ -48,3 +48,6 @@ Categorized papers based on S (Spoofing), T (Tampering), R (Repudiation), I (Inf
 
 ## Presentation Slides
 [Summary](https://docs.google.com/presentation/d/1QWyfDq5R0vt_tB6NKPvtizaLuONd435f7NiifWXbFTs/edit?slide=id.g1f87997393_0_821#slide=id.g1f87997393_0_821)
+
+## Research Corpus
+https://docs.google.com/spreadsheets/d/1oyMbcmuZOwWPNc_umoqbInS73EpwR4sMUfO5FVSaowQ/edit?gid=1549264813#gid=1549264813
