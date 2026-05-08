@@ -25,7 +25,7 @@ IEEE Access, MDPI, Not ROS, Not Cybersecurity (Security Intelligence/Surveillanc
 
 **#(ROS + Cybersecurity) papers (Title + Abstract screening):**
 
-**ACM** : 11/862,     **IEEE** : 71/366,     **Springer** : 16 /1000
+**ACM** : 11/862,     **IEEE** : 73/366,     **Springer** : 16 /1000
 
 **Current analysis results:**
 
